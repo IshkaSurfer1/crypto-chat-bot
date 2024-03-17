@@ -1,6 +1,6 @@
 {
   "name": "@nqduy180500/api-chat-ai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nqduy180500nqduy180500/api-chat-ai.git"
+    "url": "https://github.com/nqduy180500/api-chat-ai.git"
   },
   "author": "nqduy1805",
   "license": "ISC",
