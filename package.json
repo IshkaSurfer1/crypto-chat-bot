@@ -1,10 +1,6 @@
 {
   "name": "@nqduy180500/api-chat-ai",
-<<<<<<< HEAD
   "version": "1.0.4",
-=======
-  "version": "1.0.3",
->>>>>>> 566905b4815a94cf1f4869159f2ca84b6084d2a6
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
