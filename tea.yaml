@@ -1,13 +1,12 @@
 # https://tea.xyz/what-is-this-file
-
 ---
-
 version: 1.0.0
-
 codeOwners:
+<<<<<<< HEAD
 
   - '0x754314df1379828dc2676336982F46A42301a47D'
 
+=======
+  - '0x754314df1379828dc2676336982F46A42301a47D'
+>>>>>>> 566905b4815a94cf1f4869159f2ca84b6084d2a6
 quorum: 1
-
-Registering an OSS Project - tea
